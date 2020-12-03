@@ -31,6 +31,13 @@ None
 # print(type(2-4))    # Int
 # print(type(2 / 4)) # 0.5 - Float
 
-print(2 ** 3)
-print(5 // 4)
-print((6 % 4))
+# print(2 ** 3)
+# print(5 // 4)
+# print((6 % 4))
+
+
+# Math Functions
+print(round(3.1))
+print(abs(-19))  # NOTE : abs -> return the absolute value of a number
+                 # It removes the - slash sign at the front of any given number.
+  
