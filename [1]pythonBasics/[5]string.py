@@ -74,3 +74,7 @@ print(quote.lower().find('be'))
 print(quote.find('Be'))
 print(quote.lower().replace('be', 'me'))
 print(quote) # String are immutable
+
+alpha = 'cumming'
+pin = alpha.upper()
+print(pin)

@@ -34,16 +34,3 @@ ramdoma.append('Me')
 # print(ramdoma)
 
 
-# --- LIST METHODS ---
-
-basket = ['a', 'b', 'x', 'c', 'd', 'e', 'd']
-
-# basket.sort()  # This method Sort the list in ascending order and return None.
-sortedFunc = sorted(basket) # This function return a new list containing all items from the iterable in ascending order.
-plate = basket.copy() # This method copy's the list
-plate.sort()
-plate.reverse()
-print(sortedFunc) 
-print(basket)
-print(plate)
-
