@@ -15,6 +15,6 @@ usernames = ['jerry', 'tunde', 'princess']
 def username_to_cap(names):
     return f'{names[0].capitalize()}{names[1:]}'
 
-user_res = list(map(username_to_cap, usernames))
-print(user_res)
+user_res = list(map(username_to_cap, usernames)) 
+print(user_res) 
 
