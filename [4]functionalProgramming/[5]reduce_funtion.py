@@ -7,3 +7,4 @@ def accumulator(prev_value, current_value):
 
 print(reduce(accumulator, bills, 0))
 
+ 
