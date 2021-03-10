@@ -12,4 +12,4 @@ def withdraw(bill):
     return bill < 0
 
 get_withdraw = list(filter(withdraw, bills))
-print(get_withdraw)
+print(get_withdraw) 
