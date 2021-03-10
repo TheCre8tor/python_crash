@@ -6,3 +6,4 @@ time = ('5:00', '3:30', '2:20', '6:00', '1:10')
 
 zipper = list(zip(provider, recharge_card, time))
 print(zipper)
+ 
