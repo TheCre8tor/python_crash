@@ -16,7 +16,7 @@ my_numbers = [5,4,3,2,1]
 my_numbers.sort()
 
 sort_zip = list(zip(my_strings, my_numbers))
-print(sort_zip)
+print(sort_zip) 
 
 
 #3 Filter the scores that pass over 50%
