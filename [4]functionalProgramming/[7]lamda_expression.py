@@ -5,4 +5,4 @@
 numbers = [4, 5, 7, 9]
 
 result = list(map(lambda item: item * 2, numbers))
-print(result)
+print(result)  
